@@ -18,8 +18,8 @@ endif
 
 let g:colors_name = "calm-theme"
 " Basic configurations
-hi Normal           ctermfg=244 ctermbg=232
-hi Comment          ctermfg=236
+hi Normal           ctermfg=015 ctermbg=232
+hi Comment          ctermfg=058
 hi Cursor           ctermfg=016 ctermbg=253
 hi ColorColumn	                ctermbg=235
 hi CursorColumn	                ctermbg=235
