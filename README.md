@@ -1,10 +1,10 @@
-#Install with Vundle
+# Install with Vundle
  
 ```
 Plugin 'ArthurGorgonio/vim-themes-improved'
 ```
 
-#use
+# Use
 
 ```
 colorscheme calm-theme
