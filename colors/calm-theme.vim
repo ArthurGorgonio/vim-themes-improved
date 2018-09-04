@@ -51,8 +51,6 @@ hi pythonException  ctermfg=046
 hi pythonEscape     ctermfg=006
 hi pythonStatement  ctermfg=013
 
-hi IncSearch        ctermfg=232 ctermbg=033
-
 "Pre processed code
 hi PreProc          ctermfg=046
 hi Include          ctermfg=046
@@ -77,6 +75,6 @@ hi Debug            ctermfg=021
 "Others
 hi Underlined       ctermfg=021
 hi Ignore           ctermfg=021
+hi IncSearch        ctermfg=232 ctermbg=033
 hi Error            ctermfg=016
 hi Todo             ctermfg=006 ctermbg=NONE
-
