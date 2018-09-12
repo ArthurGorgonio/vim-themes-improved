@@ -20,7 +20,7 @@ let g:colors_name = "calm-theme"
 highlight MatchParen ctermbg=125
 " Basic configurations
 hi Normal           ctermfg=015 ctermbg=232
-hi Comment          ctermfg=058
+hi Comment          ctermfg=229
 hi Cursor           ctermfg=016 ctermbg=253
 hi ColorColumn	                ctermbg=235
 hi CursorColumn	                ctermbg=235
@@ -28,7 +28,7 @@ hi CursorLine	                ctermbg=233 cterm=NONE
 hi CursorLineNr     ctermfg=013             cterm=NONE
 hi Define           ctermfg=081
 hi Delimiter        ctermfg=241
-hi LineNr           ctermfg=022 ctermbg=234
+hi LineNr           ctermfg=028 ctermbg=234
 
 " Basic data types
 hi Boolean          ctermfg=006
@@ -43,7 +43,7 @@ hi Exception        ctermfg=046
 hi Function         ctermfg=099
 hi Keyword          ctermfg=201
 hi Label            ctermfg=201
-hi Operator         ctermfg=022
+hi Operator         ctermfg=190
 hi Repeat           ctermfg=201
 
 " Python Configurations
