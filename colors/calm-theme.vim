@@ -17,18 +17,19 @@ if exists("syntax_on")
 endif
 
 let g:colors_name = "calm-theme"
-highlight MatchParen ctermbg=125
+
 " Basic configurations
 hi Normal           ctermfg=015 ctermbg=232
-hi Comment          ctermfg=229
+hi Comment          ctermfg=244
 hi Cursor           ctermfg=016 ctermbg=253
 hi ColorColumn	                ctermbg=235
 hi CursorColumn	                ctermbg=235
-hi CursorLine	                ctermbg=233 cterm=NONE
+hi CursorLine	                  ctermbg=233 cterm=NONE
 hi CursorLineNr     ctermfg=013             cterm=NONE
 hi Define           ctermfg=081
 hi Delimiter        ctermfg=241
 hi LineNr           ctermfg=028 ctermbg=234
+hi MatchParen                   ctermbg=022
 
 " Basic data types
 hi Boolean          ctermfg=006
@@ -56,7 +57,7 @@ hi pythonStatement  ctermfg=013
 hi PreProc          ctermfg=046 ctermbg=234
 hi Include          ctermfg=046
 hi Define           ctermfg=046
-hi Macro	    ctermfg=046
+hi Macro            ctermfg=046
 hi Precondit        ctermfg=046
 
 "Classes and Structures
